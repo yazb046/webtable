@@ -1,6 +1,5 @@
 {
   "name": "webtable",
-  "homepage": "https://yazb046.github.io/webtable/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
